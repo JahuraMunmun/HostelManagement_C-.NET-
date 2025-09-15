@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|c:\\users\\munmun\\source\\repos\\hotel_management_systems\\hotel_management_systems\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|solutionrelative:hotel_management_systems\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\hotel_management_systems\\user control\\usercontrolreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|solutionrelative:hotel_management_systems\\user control\\usercontrolreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\hotel_management_systems\\user control\\usercontrolreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|solutionrelative:hotel_management_systems\\user control\\usercontrolreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\hotel_management_systems\\user control\\usercontrolroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|solutionrelative:hotel_management_systems\\user control\\usercontrolroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\hotel_management_systems\\user control\\usercontrolroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|solutionrelative:hotel_management_systems\\user control\\usercontrolroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\hotel_management_systems\\user control\\usercontroldashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|solutionrelative:hotel_management_systems\\user control\\usercontroldashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\hotel_management_systems\\form\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|solutionrelative:hotel_management_systems\\form\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\hotel_management_systems\\form\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|solutionrelative:hotel_management_systems\\form\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\hotel_management_systems\\user control\\usercontroldashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F6DA97-284B-4722-B194-BCEE068FF377}|Hotel_Management_Systems\\Hotel_Management_Systems.csproj|solutionrelative:hotel_management_systems\\user control\\usercontroldashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControlRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlRoom.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_Systems\\User Control\\UserControlRoom.cs",
+              "ToolTip": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlRoom.cs [Design]",
+              "RelativeToolTip": "Hotel_Management_Systems\\User Control\\UserControlRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T07:29:06.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControlRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlRoom.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_Systems\\User Control\\UserControlRoom.cs",
+              "ToolTip": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlRoom.cs",
+              "RelativeToolTip": "Hotel_Management_Systems\\User Control\\UserControlRoom.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAuwKoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T07:29:12.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlReservation.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_Systems\\User Control\\UserControlReservation.cs",
+              "ToolTip": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlReservation.cs",
+              "RelativeToolTip": "Hotel_Management_Systems\\User Control\\UserControlReservation.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAawLgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:39:54.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\Form\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_Systems\\Form\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\Form\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "Hotel_Management_Systems\\Form\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:55:48.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\Form\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_Systems\\Form\\FormDashboard.cs",
+              "ToolTip": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\Form\\FormDashboard.cs",
+              "RelativeToolTip": "Hotel_Management_Systems\\Form\\FormDashboard.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:55:54.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbConnector.cs",
+              "DocumentMoniker": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\DbConnector.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_Systems\\DbConnector.cs",
+              "ToolTip": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\DbConnector.cs",
+              "RelativeToolTip": "Hotel_Management_Systems\\DbConnector.cs",
+              "ViewState": "AgIAAEgCAAAAAAAAAAAowGACAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:05:31.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlReservation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlReservation.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_Systems\\User Control\\UserControlReservation.cs",
+              "ToolTip": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlReservation.cs [Design]",
+              "RelativeToolTip": "Hotel_Management_Systems\\User Control\\UserControlReservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T17:15:33.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControlDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlDashboard.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_Systems\\User Control\\UserControlDashboard.cs",
+              "ToolTip": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlDashboard.cs [Design]",
+              "RelativeToolTip": "Hotel_Management_Systems\\User Control\\UserControlDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:20:53.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControlDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlDashboard.cs",
+              "RelativeDocumentMoniker": "Hotel_Management_Systems\\User Control\\UserControlDashboard.cs",
+              "ToolTip": "C:\\Users\\Munmun\\source\\repos\\Hotel_Management_Systems\\Hotel_Management_Systems\\User Control\\UserControlDashboard.cs",
+              "RelativeToolTip": "Hotel_Management_Systems\\User Control\\UserControlDashboard.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:46:46.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
